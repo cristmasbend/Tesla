@@ -9,6 +9,14 @@
 <br>
 [jQuery](https://code.jquery.com/ "Подключение jQuery"), 
 <br>
-библиотеки [slick-slider](https://kenwheeler.github.io/slick/ "Slick")
+библиотека [slick-slider](https://kenwheeler.github.io/slick/ "Slick"),
+<br>
+Технология Flexbox
+
+
+Одна из моих работ, которая достойна внимания.
+В текущий момент дополнительно изучаю базовые навыки фронтенд разработки.
+
+
 
 
